@@ -7,6 +7,7 @@ public class newFile {
         System.out.println("se unificaron los cambios");
         System.out.println("probando git status area de trabajo");
         System.out.println("probando git status area de staging");
+        System.out.println("modificando desde repositorio remoto");
 
     }
 }
