@@ -9,5 +9,6 @@ public class newFile {
         System.out.println("probando git status area de staging");
         System.out.println("modificando desde repositorio remoto");
 
+
     }
 }
