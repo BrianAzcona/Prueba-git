@@ -5,6 +5,8 @@ public class newFile {
         System.out.println("cambio desde repositorio remoto");
         System.out.println("Saludo desde nueva rama");
         System.out.println("se unificaron los cambios");
+        System.out.println("probando git status area de trabajo");
+        System.out.println("probando git status area de staging");
 
     }
 }
